@@ -1,0 +1,78 @@
+productName,EOL Date,Resources,Recommended Replacement
+"PA-7000 Series
+(PAN-PA-7000-100G-NPC-A,
+PAN-PA-7000-LFC-A,
+PAN-PA-7000-DPC-A,
+PAN-PA-7080-AC-SYS,
+PAN-PA-7080-DC-SYS,
+PAN-PA-7050-AC-SYS,
+PAN-PA-7050-DC-SYS,
+PAN-PA-7050-SMC-B,
+PAN-PA-7080-SMC-B,
+PAN-PA-7050-SMC-B-SYS-UPG,
+PAN-PA-7080-SMC-B-SYS-UPG,
+PAN-PA-7000-LFC-A-SYS-UPG)",31-12-2030,PA-7000 Series Datasheet,"PA-7500
+PA-5450"
+PA-220R,31-01-2030,PA-220R Hardware Reference Guide,PA-400R Series
+PAN-2.5IN-HDD-2TB-PAIR,31-08-2028,PA-5200 Datasheet,PAN-2.5IN-SSD-1.92TB-PAIR
+PAN-QSFP-40GBASE-LM4,16-05-2029,Key Specifications for Palo Alto Networks Interfaces and Transceivers,"PAN-QSFP40G- BASE-LR4
+PAN-QSFP40G- BASE-BIDI"
+"PA-800 Series
+(PA-820, PA-850)
+(PA-820-ZTP, PA-850-ZTP)",,PA-800 Series Hardware Reference,PA-1400 Series
+ION 9000,,ION 9000 Hardware Reference,ION 9200
+ION 3000,,ION 3000 Hardware Reference,ION 3200
+M-200 and M-600,15-02-2029,"M-200 and M-600 Appliance Overview
+Panorama Datasheet",M-300 and M-700
+ION 1000,,ION 1000 Hardware Reference,ION 1200
+ION 2000,,ION 2000 Hardware Reference,ION 1200-S
+WF-500,,WildFire Private Cloud Appliance,WF-500-B
+"PA-3200 Series
+(PA-3220, PA-3250, PA-3260)
+(PA-3220-ZTP, PA-3250-ZTP, PA-3260-ZTP)",,PA-3200 Series Datasheet,PA-3400 Series
+"PA-5200 Series
+(PA-5220, PA-5250, PA-5260, PA-5280)",,PA-5200 Series Datasheet,PA-5400 Series
+PA-220,,PA-220 Datasheet,PA-400 Series
+ION 7000,,ION 7000 Hardware Reference Manual,
+"PA-7000-20GXM-NPC
+PA-7000-20GQXM-NPC",08-05-2026,"PA-7000 Series
+PA-7000 Series Datasheet","PA-7000-100G-NPC-A
+PA-7000-DPC-A"
+"PA-7050-SMC
+PA-7080-SMC
+PA-7000-LPC",,"PA-7000 Series
+PA-7000 Series Datasheet","PA-7050-SMC-B
+PA-7080-SMC-B
+PA-7000-LFC"
+"K2-Series
+(PA-5280-K2, PA-7050-K2, PA-7080-K2)",,K2-Series Datasheet,"PA-5445
+PA-7500"
+M-500,,"Panorama Overview
+Panorama Specsheet","M-300
+M-700"
+"PA-3000 Series
+(PA-3020, PA-3050, PA-3060)",,PA-3000 Series Overview,PA-3400 Series
+"PA-5000 Series
+(PA-5020, PA-5050, PA-5060)",,PA-5000 Series,PA-5400 Series
+"PA-7000-20G-NPC
+PA-7000-20GQ-NPC",,"PA-7000 Series
+Compare Firewalls","PA-7000-100G-NPC-A
+PA-7000-DPC-A"
+PA-200,,PA-200 Overview,PA-400 Series
+PA-500,,"PA-500 Overview
+PA-500 Specsheet",PA-400 Series
+M-100,,"Panorama Overview
+Panorama Specsheet",M-300
+"PA-2000 Series
+(PA-2020, PA-2050)",,"PA-2000 Series Overview
+PA-2000 Series Specsheet",PA-1400 Series
+"PA-4000 Series
+(PA-4020, PA-4050, PA-4060)",,"PA-4000 Series Overview
+PA-4000 Series Specsheet",PA-1400 Series
+GP-100,,"GP-100 Overview
+GP-100 Specsheet",
+"LightCyber Magna Detector
+(D-300, D-500, D-1000)",,LightCyber Behavioral Analytics Datasheet,
+"LightCyber Magna Probe
+(P-50T)",,LightCyber Behavioral Analytics Datasheet,
+LightCyber Magna Master (M-100),,LightCyber Behavioral Analytics Datasheet,
